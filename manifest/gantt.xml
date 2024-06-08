@@ -50,6 +50,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Gantt_Chart</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
         <members>momentJS</members>
         <name>StaticResource</name>
     </types>
